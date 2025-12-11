@@ -34,6 +34,7 @@
 | 塑心 · 标准模式       | [@FlosHana](https://www.bilibili.com/video/BV11UeuzgEQt)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/55654e1420d54b8c8277fff259f82e30aecac3e3.png" height="100" alt="塑心 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/5a6df9024e40) |
 | 送葬人 · 标准模式     | [@FlosHana](https://www.bilibili.com/video/BV11UeuzgEQt)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d85805b3106159ac278f3263c65443e9fe1b4424.png" height="100" alt="送葬人 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/e61c0225501c) |
 | 莫宁 · 标准模式       | [@我是千秋秋](https://www.bilibili.com/video/BV1xj2jBzEVZ)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/ced96f9ec711804a259a662fa3b3a6738c2b43a1.png" height="100" alt="莫宁 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/7c1a32124b53) |
+| 满穗 · 标准模式       | [@我是千秋秋](https://www.bilibili.com/video/BV1c92kBgEqT)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e3a6e8b84232096e9332360269136eac8231548f.png" height="100" alt="满穗 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/902806ead82a) |
 
 ## 📥 如何贡献模型
 
