@@ -38,6 +38,7 @@
 | 珂莱塔 · 标准模式     | [@我是千秋秋](https://www.bilibili.com/video/BV1gBmTB4EdV)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/918c8b383a7368fdc750d75b3c5370a0374e0187.png" height="100" alt="珂莱塔 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/8cefde2cbcf2) |
 | 罗小黑 · 标准模式     | [@源尘迷途](https://www.bilibili.com/video/BV1Zd4y1y7TV)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/18fe90f1c8152e229b1cd991c38e1657477e6b37.png" height="100" alt="罗小黑 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/7436777d5214) |
 | 枫原万叶 · 标准模式   | [@源尘迷途](https://www.bilibili.com/video/BV113411D7UJ)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/4d1a95e491e7e44d4f84b8d902c198b99666449e.png" height="100" alt="枫原万叶 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/496de8f45866) |
+| 归终 · 标准模式       | [@源尘迷途](https://www.bilibili.com/video/BV1Q84y1777k)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e8db0d27dfd251103e09c8b58a6f45e89fc73b81.png" height="100" alt="归终 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/b491b1d253ba) |
 
 ## 📥 如何贡献模型
 
