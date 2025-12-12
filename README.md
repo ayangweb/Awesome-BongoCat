@@ -36,6 +36,7 @@
 | 莫宁 · 标准模式       | [@我是千秋秋](https://www.bilibili.com/video/BV1xj2jBzEVZ)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/ced96f9ec711804a259a662fa3b3a6738c2b43a1.png" height="100" alt="莫宁 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/7c1a32124b53) |
 | 满穗 · 标准模式       | [@我是千秋秋](https://www.bilibili.com/video/BV1c92kBgEqT)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e3a6e8b84232096e9332360269136eac8231548f.png" height="100" alt="满穗 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/c3693ae199c3) |
 | 珂莱塔 · 标准模式     | [@我是千秋秋](https://www.bilibili.com/video/BV1gBmTB4EdV)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/918c8b383a7368fdc750d75b3c5370a0374e0187.png" height="100" alt="珂莱塔 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/8cefde2cbcf2) |
+| 罗小黑 · 标准模式     | [@源尘迷途](https://www.bilibili.com/video/BV1Zd4y1y7TV)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/18fe90f1c8152e229b1cd991c38e1657477e6b37.png" height="100" alt="罗小黑 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/7436777d5214) |
 
 ## 📥 如何贡献模型
 
