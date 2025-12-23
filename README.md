@@ -40,6 +40,7 @@
 | 枫原万叶 · 标准模式   | [@源尘迷途](https://www.bilibili.com/video/BV113411D7UJ)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/4d1a95e491e7e44d4f84b8d902c198b99666449e.png" height="100" alt="枫原万叶 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/496de8f45866) |
 | 归终 · 标准模式       | [@源尘迷途](https://www.bilibili.com/video/BV1Q84y1777k)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e8db0d27dfd251103e09c8b58a6f45e89fc73b81.png" height="100" alt="归终 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/b491b1d253ba) |
 | 大傻椿 · 标准模式     | [@我是千秋秋](https://www.bilibili.com/video/BV15dqWBXEfs)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/28b2e0c8c9879ded39e3e34ff3f1b5540b99c479.png" height="100" alt="大傻椿 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/f4ff36d9d6b7) |
+| doro - 标准模式       | [@我是千秋秋](https://space.bilibili.com/589037324)                | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/9fda52c87e5224b144917e73ca76fef2d0dcc776.png" height="100" alt="doro - 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/44b752e829e5) |
 
 ## 📥 如何贡献模型
 
