@@ -45,6 +45,7 @@
 | 园丁 · 标准模式       | [@白桥梓](https://www.bilibili.com/video/BV1r6sTzvEPD)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d8cddfbeb5fc47d2d5cd4baf66e656bdac89680b.png" height="100" alt="园丁 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/9fd120389890) |
 | 孽蜥 · 标准模式       | [@白桥梓](https://www.bilibili.com/video/BV1HBe9zdE7h)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/1731ced64b957e63a844dd73eb6247030796bdca.png" height="100" alt="孽蜥 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/59d7dedbdc9f) |
 | 愚人金 · 标准模式     | [@白桥梓](https://www.bilibili.com/video/BV18wK1z3EN1)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/dea5dd3d08fd5865eef029869a16fb15f443a780.png" height="100" alt="愚人金 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/0a6d6f3c1edf) |
+| 女巫 · 标准模式       | [@白桥梓](https://www.bilibili.com/video/BV1dVNQzAELG)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/0b569a7edb755aa7ae08913fb0e22a3bcd372ac9.png" height="100" alt="女巫 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/fe1e2036edfb) |
 
 ## 📥 如何贡献模型
 
