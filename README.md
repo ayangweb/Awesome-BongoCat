@@ -48,6 +48,7 @@
 | 梦之女巫 · 标准模式   | [@白桥梓](https://www.bilibili.com/video/BV1dVNQzAELG)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/0b569a7edb755aa7ae08913fb0e22a3bcd372ac9.png" height="100" alt="梦之女巫 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/adb44f829294) |
 | 守夜人 · 标准模式     | [@白桥梓](https://www.bilibili.com/video/BV1yHMrzZEKX)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/5f7ed9b68693208106620dcfe5e6356ac8fc75af.png" height="100" alt="守夜人 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/d1f0124b5f51) |
 | 黄衣之主 · 标准模式   | [@白桥梓](https://www.bilibili.com/video/BV1koT7zXEcz)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/bd5f251699f757102e25a54487d64b12d6a4ecb8.png" height="100" alt="黄衣之主 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/9bb66fc3eaa0) |
+| 鹿头 · 标准模式       | [@白桥梓](https://www.bilibili.com/video/BV18dngz7EiL)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/5c187f56f474b0b9c47082d714aec49e944ac1af.png" height="100" alt="鹿头 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/f79de3d8abb4) |
 
 ## 📥 如何贡献模型
 
