@@ -65,6 +65,7 @@
 | 镜流 · 手柄模式       | [@宇痕冫](https://www.bilibili.com/video/BV14H4y1L7mH)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/8ec8e842febff9fcd6a2dd631aa46a7c4417ef55.png" height="100" alt="镜流 · 手柄模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/e41ec7a4cf63) |
 | 阮梅 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1Qr421b7QT)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/3b76dcd68fe59274af0d5fd125a3567ab5e100b2.png" height="100" alt="阮梅 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/1823c586b5b9) |
 | 阮梅 · 键盘模式       | [@宇痕冫](https://www.bilibili.com/video/BV1Qr421b7QT)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/88c5c9c32d354491b68acb9bdff77777a6f67518.png" height="100" alt="阮梅 · 键盘模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/96a6ff03fc0e) |
+| 阮梅 · 手柄模式       | [@宇痕冫](https://www.bilibili.com/video/BV1Qr421b7QT)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e4f72cf35449c1c58b73570d12c6b17018c6e1f2.png" height="100" alt="阮梅 · 手柄模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/d9b0576bc3e0) |
 
 ## 📥 如何贡献模型
 
