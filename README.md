@@ -59,6 +59,7 @@
 | 流萤 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1MM4m1z7Dy)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/ff93c45dad0aaba69d9ee0f13f9fbe81bdb28fde.png" height="100" alt="流萤 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/41fc37352a09) |
 | 恐龙流萤 · 标准模式   | [@宇痕冫](https://www.bilibili.com/video/BV1FeEEzmE4v)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/41638464fcd53aa443c6efdc4008cfaf383197cc.png" height="100" alt="恐龙流萤 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/2cc093dd840a) |
 | 千咲 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV141SMBtESZ)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/da0dca9b8c0327a473933117a3f9b6532d3c4d8b.png" height="100" alt="千咲 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/6ca54742830b) |
+| 银狼 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1u94y187Ax)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/76d7c1eeb96d1a4e9430ffb98e48acedbb33c8e3.png" height="100" alt="银狼 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/b03e193257d5) |
 
 ## 📥 如何贡献模型
 
