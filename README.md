@@ -62,6 +62,7 @@
 | 银狼 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1u94y187Ax)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/76d7c1eeb96d1a4e9430ffb98e48acedbb33c8e3.png" height="100" alt="银狼 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/b03e193257d5) |
 | 星见雅 · 标准模式     | [@宇痕冫](https://www.bilibili.com/video/BV1MP5JzpEkv)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/66420801f4229e1163449babb64697ce4e4e9eb3.png" height="100" alt="星见雅 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/726506d9f37e) |
 | 镜流 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV14H4y1L7mH)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d6de2aea50fe930176b66ab7db2ef67b14dcf2d6.png" height="100" alt="镜流 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/9d7873929d3d) |
+| 阮梅 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1Qr421b7QT)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/3b76dcd68fe59274af0d5fd125a3567ab5e100b2.png" height="100" alt="阮梅 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/1823c586b5b9) |
 
 ## 📥 如何贡献模型
 
