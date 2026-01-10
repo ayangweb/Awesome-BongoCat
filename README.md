@@ -53,6 +53,7 @@
 | 爱莉希雅 · 标准模式   | [@宇痕冫](https://www.bilibili.com/video/BV1GiDSYFEyq)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/853914687d1ceb8112fa2c1e1bee17b8a397e92d.png" height="100" alt="爱莉希雅 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/4e2cfe694412) |
 | 仇远 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1kryWBmEa2)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/cfc8aef069eba2185f2d8d020600cd34620e381d.png" height="100" alt="仇远 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/89ab8311e020) |
 | 大月下 · 标准模式     | [@宇痕冫](https://www.bilibili.com/video/BV16dXqYyEW8)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/f82149235163aa05d28b215adc045753162b21ef.png" height="100" alt="大月下 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/3d0d6149214b) |
+| 菲比 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1iVhxztEHj)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/4e8c46bc5eae09fffd9ece274d1fd08b28317dc9.png" height="100" alt="菲比 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/2c832f91fe7b) |
 
 ## 📥 如何贡献模型
 
