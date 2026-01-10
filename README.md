@@ -55,6 +55,7 @@
 | 大月下 · 标准模式     | [@宇痕冫](https://www.bilibili.com/video/BV16dXqYyEW8)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/f82149235163aa05d28b215adc045753162b21ef.png" height="100" alt="大月下 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/3d0d6149214b) |
 | 菲比 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1iVhxztEHj)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/4e8c46bc5eae09fffd9ece274d1fd08b28317dc9.png" height="100" alt="菲比 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/2c832f91fe7b) |
 | 弗洛洛 · 标准模式     | [@宇痕冫](https://www.bilibili.com/video/BV1XwBMBqEuu)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b8b07c132f2be7e37cc431f2a8a81fde8b9b62cf.png" height="100" alt="弗洛洛 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/f63a8427b548) |
+| 卡提 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1AxK6zJEce)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/ba45d44263c8217da2dba062cb7c40dfa37d8863.png" height="100" alt="卡提 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/50ae78760053) |
 
 ## 📥 如何贡献模型
 
