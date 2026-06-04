@@ -1,0 +1,108 @@
+![Awesome-BongoCat](https://socialify.git.ci/ayangweb/Awesome-BongoCat/image?custom_description=&description=1&font=Source+Code+Pro&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2Fayangweb%2FBongoCat%2Fblob%2Fmaster%2Fsrc-tauri%2Fassets%2Flogo-mac.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Brick+Wall&pulls=1&stargazers=1&theme=Auto)
+
+<!-- i18n-selector-start -->
+[中文](./README.md) | **English**
+<!-- i18n-selector-end -->
+
+## 📚 Model List
+
+| Name                  | Author                                                               | Preview                                                                                                                                                              | Download                                        |
+| --------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 经典小键盘 · 标准模式 | [@MMmmmoko](https://space.bilibili.com/5808772)                    | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/7a475b7e96151137ef8907c7a91bd3e854f0bbfb.png" height="100" alt="经典小键盘 · 标准模式" /></div> | [Quark Drive](https://pan.quark.cn/s/617015c498b2) |
+| 经典小键盘 · 键盘模式 | [@MMmmmoko](https://space.bilibili.com/5808772)                    | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/5f68f5de2498cad00f8ac9a4c8a28a7f2665be75.png" height="100" alt="经典小键盘 · 键盘模式" /></div> | [Quark Drive](https://pan.quark.cn/s/330ddf65f592) |
+| 温迪 · 标准模式       | [@狐言 0v0](https://www.bilibili.com/video/BV1Dd4y1u7FR)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/c9c2cc355b1effcbcb5685c7f928c7321900757b.png" height="100" alt="温迪 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/be26650c9962) |
+| 魈二代 · 标准模式     | [@狐言 0v0](https://www.bilibili.com/video/BV1ZX4y1z7ML)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/7ac1930ee66efc940bfea0bdd77549cb259e4f64.png" height="100" alt="魈二代 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/9d6183501b5d) |
+| 逍遥散人 · 标准模式   | [@ST 咸猫](https://www.bilibili.com/video/BV1h34y1h7x8)            | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/f9d6121102a9099b22f9b954a693739d0cb484a5.png" height="100" alt="逍遥散人 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/b63f8e711beb) |
+| 逍遥散人 · 键盘模式   | [@ST 咸猫](https://www.bilibili.com/video/BV1h34y1h7x8)            | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d228a78a5af470296088a036ffcfce64df7d5e19.png" height="100" alt="逍遥散人 · 键盘模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/5ab7fcaa96fe) |
+| 乃琳 · 标准模式       | [@奶淇琳周报](https://www.bilibili.com/video/BV1Bz4y1t78t)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/929b870e4a1f090074399aeaef552b6ae217dde0.png" height="100" alt="乃琳 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/15b08c32832f) |
+| 乃琳 · 键盘模式       | [@奶淇琳周报](https://www.bilibili.com/video/BV1Bz4y1t78t)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/a4e3244f955215865f7be108e1961a4f17f12be8.png" height="100" alt="乃琳 · 键盘模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/db1c13530e75) |
+| 皮蛋 · 标准模式       | [@不要舔我耳朵啊喂](https://www.bilibili.com/video/BV1Ao4y1z774)   | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/6f428f34cb1b0023b77e01c14c19ac4fffdba057.png" height="100" alt="皮蛋 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/c8d55dcb3ac7) |
+| 绪山真寻 · 标准模式   | [@水無蝉羽](https://www.bilibili.com/video/BV1Ma4y1S7jM)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b1a5e88d67cbb01b96a04e819bedfc10a6228f0f.png" height="100" alt="绪山真寻 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/3fc42646eab3) |
+| 可莉 · 标准模式       | [@喵小爷驾到](https://www.bilibili.com/video/BV19r4y1d7HJ)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/2c64629c41558c7e7b838cf1ae580ccf463f0ca5.png" height="100" alt="可莉 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/a5c238ff2bf3) |
+| 河原木桃香 · 标准模式 | [@蚀萤面包坊](https://www.bilibili.com/video/BV1ii421D7Zu)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/eb205b72a7241990ab8ee4d881bf26e29f411ceb.png" height="100" alt="河原木桃香 · 标准模式" /></div> | [Quark Drive](https://pan.quark.cn/s/6858d6134c18) |
+| 安和昴 · 标准模式     | [@蚀萤面包坊](https://www.bilibili.com/video/BV1ii421D7Zu)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b4eb83f30df14b1d457e034afb17c4ad5e25c56e.png" height="100" alt="安和昴 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/891bd1707386) |
+| 井芹仁菜 · 标准模式   | [@蚀萤面包坊](https://www.bilibili.com/video/BV1fJ4m1P7m3)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/f7784197ccea577275339f448c2125f86aa1290f.png" height="100" alt="井芹仁菜 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/8186406d7554) |
+| 海老塚智 · 标准模式   | [@蚀萤面包坊](https://www.bilibili.com/video/BV1c4421D7MZ)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/25ef825aaa62b93e8b850762ef426738d3e2b422.png" height="100" alt="海老塚智 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/41274bed8e3a) |
+| RUPA · 标准模式       | [@蚀萤面包坊](https://www.bilibili.com/video/BV1kM4m1m7G9)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/4d2c125b03cf6d491426f7de404f47c4bf4e42ac.png" height="100" alt="RUPA · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/5273d5ae845f) |
+| 动力小猫 · 标准模式   | [@松露酱酱](https://www.bilibili.com/video/BV1SS4y1L7Ey)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e87b8e391e66324a03531e672cc94f102a44cb88.png" height="100" alt="动力小猫 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/7157b62811ba) |
+| 小熊猫昊昊 · 标准模式 | [@猫猫虫有啥坏心思呢](https://www.bilibili.com/video/BV1qz4y1H7E1) | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d66310de01a718334c6a057844ab21d9509a23d7.png" height="100" alt="小熊猫昊昊 · 标准模式" /></div> | [Quark Drive](https://pan.quark.cn/s/cc8830fc86d7) |
+| 小熊猫昊昊 · 键盘模式 | [@猫猫虫有啥坏心思呢](https://www.bilibili.com/video/BV1qz4y1H7E1) | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/55a885210656785dadd49535444160fdfc618187.png" height="100" alt="小熊猫昊昊 · 键盘模式" /></div> | [Quark Drive](https://pan.quark.cn/s/c4753bc07689) |
+| 温蒂 · 标准模式       | [@水酸基](https://www.bilibili.com/video/BV14mKAeFEb6)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/3e47b6635250df2b4ad1e3d9909ada41052e01d1.png" height="100" alt="温蒂 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/719032cf7bcb) |
+| 珊瑚宫心海 · 标准模式 | [@宇痕冫](https://www.bilibili.com/video/BV1FF411f7sN)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/085f4d50d2c67baf0209e926a7802180574edb65.png" height="100" alt="珊瑚宫心海 · 标准模式" /></div> | [Quark Drive](https://pan.quark.cn/s/460e2d3801e7) |
+| 粉红天使 · 标准模式   | [@锦鲤炒锦鲤](https://www.bilibili.com/video/BV1dz4y1D7ub)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/466764d79fc3c960748774a79a5467351e32e68a.png" height="100" alt="粉红天使 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/5232d9382a57) |
+| 悠米 · 标准模式       | [@黎息息](https://www.bilibili.com/video/BV1hF411T7Vp)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/8328a55de8885204508dea98c091a9847f521980.png" height="100" alt="悠米 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/bee56445c23b) |
+| 子音 · 标准模式       | [@是阿蚩哟](https://www.bilibili.com/video/BV1us4y1t7PR)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b84b2bc4d64485e4b1ed5ee6d7c678c36164d116.png" height="100" alt="子音 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/9de0725df7dd) |
+| 邦布 · 标准模式       | [@4014OvO](https://www.bilibili.com/video/BV1F1421t7HQ)            | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/7f41a80ffa654c04181bc89dba64efba253e2ca7.png" height="100" alt="邦布 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/e83668581b7c) |
+| 籽岷 · 标准模式       | [@是阿蚩哟](https://www.bilibili.com/video/BV1m14y1T7W2)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/a22cc82414609bc751922f2c152469d68ff20add.png" height="100" alt="籽岷 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/5f89b9722f64) |
+| 艾瑟雅 · 标准模式     | [@网友艾瑟雅](https://www.bilibili.com/video/BV1p94y1v7Pz)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b7425cd8aa03f121acef259402a4d5bc8dce6cc2.png" height="100" alt="艾瑟雅 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/1ed25f1ea7fa) |
+| 塑心 · 标准模式       | [@FlosHana](https://www.bilibili.com/video/BV11UeuzgEQt)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/55654e1420d54b8c8277fff259f82e30aecac3e3.png" height="100" alt="塑心 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/5a6df9024e40) |
+| 送葬人 · 标准模式     | [@FlosHana](https://www.bilibili.com/video/BV11UeuzgEQt)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d85805b3106159ac278f3263c65443e9fe1b4424.png" height="100" alt="送葬人 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/e61c0225501c) |
+| 莫宁 · 标准模式       | [@我是千秋秋](https://www.bilibili.com/video/BV1xj2jBzEVZ)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/ced96f9ec711804a259a662fa3b3a6738c2b43a1.png" height="100" alt="莫宁 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/b252526eccd3) |
+| 满穗 · 标准模式       | [@我是千秋秋](https://www.bilibili.com/video/BV1c92kBgEqT)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e3a6e8b84232096e9332360269136eac8231548f.png" height="100" alt="满穗 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/c3693ae199c3) |
+| 珂莱塔 · 标准模式     | [@我是千秋秋](https://www.bilibili.com/video/BV1gBmTB4EdV)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/918c8b383a7368fdc750d75b3c5370a0374e0187.png" height="100" alt="珂莱塔 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/8cefde2cbcf2) |
+| 罗小黑 · 标准模式     | [@源尘迷途](https://www.bilibili.com/video/BV1Zd4y1y7TV)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/18fe90f1c8152e229b1cd991c38e1657477e6b37.png" height="100" alt="罗小黑 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/7436777d5214) |
+| 枫原万叶 · 标准模式   | [@源尘迷途](https://www.bilibili.com/video/BV113411D7UJ)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/4d1a95e491e7e44d4f84b8d902c198b99666449e.png" height="100" alt="枫原万叶 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/496de8f45866) |
+| 归终 · 标准模式       | [@源尘迷途](https://www.bilibili.com/video/BV1Q84y1777k)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e8db0d27dfd251103e09c8b58a6f45e89fc73b81.png" height="100" alt="归终 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/b491b1d253ba) |
+| 大傻椿 · 标准模式     | [@我是千秋秋](https://www.bilibili.com/video/BV15dqWBXEfs)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/28b2e0c8c9879ded39e3e34ff3f1b5540b99c479.png" height="100" alt="大傻椿 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/f4ff36d9d6b7) |
+| doro · 标准模式       | [@我是千秋秋](https://www.bilibili.com/video/BV1evBKBTE4F)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/9fda52c87e5224b144917e73ca76fef2d0dcc776.png" height="100" alt="doro · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/44b752e829e5) |
+| 小女孩 · 标准模式     | [@白桥梓](https://www.bilibili.com/video/BV1tWqQBEEwW)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/0c701f2f6ab74ffce6384fe896d16740d1de7516.png" height="100" alt="小女孩 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/5e21c868ed6d) |
+| 园丁 · 标准模式       | [@白桥梓](https://www.bilibili.com/video/BV1r6sTzvEPD)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d8cddfbeb5fc47d2d5cd4baf66e656bdac89680b.png" height="100" alt="园丁 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/9fd120389890) |
+| 孽蜥 · 标准模式       | [@白桥梓](https://www.bilibili.com/video/BV1HBe9zdE7h)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/1731ced64b957e63a844dd73eb6247030796bdca.png" height="100" alt="孽蜥 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/59d7dedbdc9f) |
+| 愚人金 · 标准模式     | [@白桥梓](https://www.bilibili.com/video/BV18wK1z3EN1)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/dea5dd3d08fd5865eef029869a16fb15f443a780.png" height="100" alt="愚人金 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/0a6d6f3c1edf) |
+| 梦之女巫 · 标准模式   | [@白桥梓](https://www.bilibili.com/video/BV1dVNQzAELG)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/0b569a7edb755aa7ae08913fb0e22a3bcd372ac9.png" height="100" alt="梦之女巫 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/adb44f829294) |
+| 守夜人 · 标准模式     | [@白桥梓](https://www.bilibili.com/video/BV1yHMrzZEKX)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/5f7ed9b68693208106620dcfe5e6356ac8fc75af.png" height="100" alt="守夜人 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/d1f0124b5f51) |
+| 黄衣之主 · 标准模式   | [@白桥梓](https://www.bilibili.com/video/BV1koT7zXEcz)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/bd5f251699f757102e25a54487d64b12d6a4ecb8.png" height="100" alt="黄衣之主 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/9bb66fc3eaa0) |
+| 鹿头 · 标准模式       | [@白桥梓](https://www.bilibili.com/video/BV18dngz7EiL)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/5c187f56f474b0b9c47082d714aec49e944ac1af.png" height="100" alt="鹿头 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/f79de3d8abb4) |
+| 守岸人 · 标准模式     | [@宇痕冫](https://www.bilibili.com/video/BV1TwWuzjEhm)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/3a6559cf6da87a7dfb6106290656098ec85ea5da.png" height="100" alt="守岸人 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/d2aa5f135ae2) |
+| 爱莉希雅 · 标准模式   | [@宇痕冫](https://www.bilibili.com/video/BV1GiDSYFEyq)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/853914687d1ceb8112fa2c1e1bee17b8a397e92d.png" height="100" alt="爱莉希雅 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/4e2cfe694412) |
+| 仇远 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1kryWBmEa2)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/cfc8aef069eba2185f2d8d020600cd34620e381d.png" height="100" alt="仇远 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/89ab8311e020) |
+| 大月下 · 标准模式     | [@宇痕冫](https://www.bilibili.com/video/BV16dXqYyEW8)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/f82149235163aa05d28b215adc045753162b21ef.png" height="100" alt="大月下 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/3d0d6149214b) |
+| 菲比 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1iVhxztEHj)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/4e8c46bc5eae09fffd9ece274d1fd08b28317dc9.png" height="100" alt="菲比 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/2c832f91fe7b) |
+| 弗洛洛 · 标准模式     | [@宇痕冫](https://www.bilibili.com/video/BV1XwBMBqEuu)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b8b07c132f2be7e37cc431f2a8a81fde8b9b62cf.png" height="100" alt="弗洛洛 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/f63a8427b548) |
+| 卡提 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1AxK6zJEce)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/ba45d44263c8217da2dba062cb7c40dfa37d8863.png" height="100" alt="卡提 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/50ae78760053) |
+| 流萤 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1MM4m1z7Dy)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/ff93c45dad0aaba69d9ee0f13f9fbe81bdb28fde.png" height="100" alt="流萤 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/41fc37352a09) |
+| 恐龙流萤 · 标准模式   | [@宇痕冫](https://www.bilibili.com/video/BV1FeEEzmE4v)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/41638464fcd53aa443c6efdc4008cfaf383197cc.png" height="100" alt="恐龙流萤 · 标准模式" /></div>   | [Quark Drive](https://pan.quark.cn/s/2cc093dd840a) |
+| 千咲 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV141SMBtESZ)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/da0dca9b8c0327a473933117a3f9b6532d3c4d8b.png" height="100" alt="千咲 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/6ca54742830b) |
+| 银狼 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1u94y187Ax)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/76d7c1eeb96d1a4e9430ffb98e48acedbb33c8e3.png" height="100" alt="银狼 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/b03e193257d5) |
+| 星见雅 · 标准模式     | [@宇痕冫](https://www.bilibili.com/video/BV1MP5JzpEkv)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/66420801f4229e1163449babb64697ce4e4e9eb3.png" height="100" alt="星见雅 · 标准模式" /></div>     | [Quark Drive](https://pan.quark.cn/s/726506d9f37e) |
+| 镜流 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV14H4y1L7mH)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d6de2aea50fe930176b66ab7db2ef67b14dcf2d6.png" height="100" alt="镜流 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/9d7873929d3d) |
+| 镜流 · 手柄模式       | [@宇痕冫](https://www.bilibili.com/video/BV14H4y1L7mH)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/8ec8e842febff9fcd6a2dd631aa46a7c4417ef55.png" height="100" alt="镜流 · 手柄模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/e41ec7a4cf63) |
+| 阮梅 · 标准模式       | [@宇痕冫](https://www.bilibili.com/video/BV1Qr421b7QT)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/3b76dcd68fe59274af0d5fd125a3567ab5e100b2.png" height="100" alt="阮梅 · 标准模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/1823c586b5b9) |
+| 阮梅 · 键盘模式       | [@宇痕冫](https://www.bilibili.com/video/BV1Qr421b7QT)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/88c5c9c32d354491b68acb9bdff77777a6f67518.png" height="100" alt="阮梅 · 键盘模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/96a6ff03fc0e) |
+| 阮梅 · 手柄模式       | [@宇痕冫](https://www.bilibili.com/video/BV1Qr421b7QT)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e4f72cf35449c1c58b73570d12c6b17018c6e1f2.png" height="100" alt="阮梅 · 手柄模式" /></div>       | [Quark Drive](https://pan.quark.cn/s/d9b0576bc3e0) |
+
+## 📥 How to Contribute Models
+
+### 🌟 Recommended: Submit a PR
+
+1. **Fork the repository**: Click the "Fork" button in the upper-right corner to copy this repository to your account;
+2. **Edit the file**: Edit `README.md` and add your model information to the table (see the format example below);
+3. **Submit a PR**: Commit your changes with a description of the update and wait for a maintainer to review and merge.
+
+#### 📋 Submission Guidelines
+
+- **Model name**: Recommended format is **Character / Style**;
+- **Author info**: Provide a GitHub username or other social media handle;
+- **Preview image**: Provide a publicly accessible image URL, fixed height of `100px`;
+- **Resource URL**: Prefer open-source platform links; if using cloud storage, ensure the link remains valid long-term.
+
+### 📧 Beginner Option: Email Submission
+
+If you're unfamiliar with Git, you can submit via email:
+
+- 📩 Email: [ayangweb@foxmail.com](ayangweb@foxmail.com)
+- 📝 Subject: 【BongoCat Model Submission】Your Model Name
+- 📎 Content: Include all four items listed above, with the preview image attached
+
+## ⚠️ Important Notes
+
+1. **Copyright**: Ensure the submitted model is original or authorized by the original author. Uploading infringing models is prohibited;
+2. **Format requirements**: Table fields must not be empty; preview images must include `alt` text (e.g., `alt="Model Name"`);
+3. **Review process**: Maintainers will review submissions as soon as possible. Duplicate entries, invalid links, or low-quality models will be rejected.
+
+## 🤝 Community Support
+
+- ⭐ Star this repository to get the latest model updates;
+- 📌 Follow [BongoCat](https://github.com/ayangweb/BongoCat) for app updates.
+
+**✨ We look forward to your contributions — let's make the [BongoCat](https://github.com/ayangweb/BongoCat) community even better!**
