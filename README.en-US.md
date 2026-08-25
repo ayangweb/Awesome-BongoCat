@@ -2,10 +2,6 @@
   <a href="./README.md">中文</a> | <strong>English</strong>
 </p>
 
-<p>
-  <strong>Note</strong>: I have joined the Quark Cloud Drive Creator Program. If you are able to successfully register and use Quark Cloud Drive, you are welcome to prioritize downloading models via the Quark Cloud Drive links in the table. This will generate corresponding revenue for me. Thank you for your support!
-</p>
-
 ## 📚 Model List
 
 | Name                                  | Author                                                             | Preview                                                                                                                                                                             | Download                                                                                                                                                                                       |
